@@ -1,0 +1,6 @@
+@L06_WillianExAppl_HostAddress = http://localhost:5214
+
+GET {{L06_WillianExAppl_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
